@@ -98,7 +98,7 @@ $(document).ready(function() {
       dots: true,
       nav: false,
       responsiveClass: true,
-      responsive: { 0: { items: 1 }, 768: { items: 2 }, 900: { items: 4 } }
+      responsive: { 0: { items: 4 }, 768: { items: 4 }, 900: { items: 4 } }
     });
 
 
